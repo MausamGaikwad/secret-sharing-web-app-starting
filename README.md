@@ -24,13 +24,14 @@ Copy code
 `npm install`
 
 Set up MongoDB:
-Install MongoDB on your system if you haven't already.
-Create a local MongoDB database named userDB.
-Start the application:
+  * Install MongoDB on your system if you haven't already.
+  * Create a local MongoDB database named userDB.
 
+Start the application:
 sql
 Copy code
-npm start
+`npm start`
+
 Access the application in your browser at http://localhost:3000.
 
 ## Usage
