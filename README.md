@@ -15,24 +15,24 @@ This is a web application that allows users to share their secrets anonymously.
 * Bootstrap: Front-end framework for styling.
 ## Installation
 
-Clone the repository:
+1. Clone the repository:
 Copy code
 git clone `https://github.com/MausamGaikwad/secret-sharing-web-app-starting.git`
 
-Install dependencies:
+2. Install dependencies:
 Copy code
 `npm install`
 
-Set up MongoDB:
+3. Set up MongoDB:
   * Install MongoDB on your system if you haven't already.
   * Create a local MongoDB database named userDB.
 
-Start the application:
+4. Start the application:
 sql
 Copy code
 `npm start`
 
-Access the application in your browser at `http://localhost:3000`.
+5. Access the application in your browser at `http://localhost:3000`.
 
 ## Usage
 * Register for an account by providing your email and password.
