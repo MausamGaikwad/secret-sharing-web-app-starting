@@ -7,12 +7,12 @@ This is a web application that allows users to share their secrets anonymously.
 * Anonymous Secret Sharing: Authenticated users can share their secrets anonymously.
 * User Experience: Simple and intuitive user interface.
 ## Technologies Used
-Node.js: JavaScript runtime environment.
-Express.js: Web application framework for Node.js.
-MongoDB: NoSQL database for storing user information and secrets.
-Mongoose: MongoDB object modeling tool.
-Body-parser: Middleware for parsing request bodies.
-Bootstrap: Front-end framework for styling.
+* Node.js: JavaScript runtime environment.
+* Express.js: Web application framework for Node.js.
+* MongoDB: NoSQL database for storing user information and secrets.
+* Mongoose: MongoDB object modeling tool.
+* Body-parser: Middleware for parsing request bodies.
+* Bootstrap: Front-end framework for styling.
 ## Installation
 Clone the repository:
 
