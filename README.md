@@ -32,7 +32,7 @@ sql
 Copy code
 `npm start`
 
-Access the application in your browser at http://localhost:3000.
+Access the application in your browser at `http://localhost:3000`.
 
 ## Usage
 * Register for an account by providing your email and password.
