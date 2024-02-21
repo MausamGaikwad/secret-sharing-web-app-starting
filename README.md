@@ -18,8 +18,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone <repository-url>
-https://github.com/MausamGaikwad/secret-sharing-web-app-starting.git
+git clone <[repository-url](https://github.com/MausamGaikwad/secret-sharing-web-app-starting.git)>
 Install dependencies:
 
 Copy code
