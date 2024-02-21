@@ -38,7 +38,7 @@ Access the application in your browser at http://localhost:3000.
 Register for an account by providing your email and password.
 Log in using your registered credentials.
 Share your secrets anonymously or view secrets shared by others.
-Contributing
+## Contributing
 Contributions are welcome! If you have any ideas for improvement or find any issues, feel free to open an issue or submit a pull request.
 
 ## License
