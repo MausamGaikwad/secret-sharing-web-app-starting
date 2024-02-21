@@ -14,17 +14,16 @@ This is a web application that allows users to share their secrets anonymously.
 * Body-parser: Middleware for parsing request bodies.
 * Bootstrap: Front-end framework for styling.
 ## Installation
+
 Clone the repository:
-
-bash
 Copy code
-git clone <[repository-url](https://github.com/MausamGaikwad/secret-sharing-web-app-starting.git)>
+git clone `https://github.com/MausamGaikwad/secret-sharing-web-app-starting.git`
+
 Install dependencies:
-
 Copy code
-npm install
-Set up MongoDB:
+`npm install`
 
+Set up MongoDB:
 Install MongoDB on your system if you haven't already.
 Create a local MongoDB database named userDB.
 Start the application:
@@ -38,6 +37,7 @@ Access the application in your browser at http://localhost:3000.
 * Register for an account by providing your email and password.
 * Log in using your registered credentials.
 * Share your secrets anonymously or view secrets shared by others.
+
 ## Contributing
 Contributions are welcome! If you have any ideas for improvement or find any issues, feel free to open an issue or submit a pull request.
 
