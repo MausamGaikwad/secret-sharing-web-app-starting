@@ -2,10 +2,10 @@
 This is a web application that allows users to share their secrets anonymously.
 
 ## Features
-User Registration: Users can register with their email and password.
-User Authentication: Registered users can log in securely.
-Anonymous Secret Sharing: Authenticated users can share their secrets anonymously.
-User Experience: Simple and intuitive user interface.
+* User Registration: Users can register with their email and password.
+* User Authentication: Registered users can log in securely.
+* Anonymous Secret Sharing: Authenticated users can share their secrets anonymously.
+* User Experience: Simple and intuitive user interface.
 ## Technologies Used
 Node.js: JavaScript runtime environment.
 Express.js: Web application framework for Node.js.
