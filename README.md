@@ -1,7 +1,7 @@
-Secrets Sharing Web Application
+##Secrets Sharing Web Application
 This is a web application that allows users to share their secrets anonymously.
 
-Features
+## Features
 User Registration: Users can register with their email and password.
 User Authentication: Registered users can log in securely.
 Anonymous Secret Sharing: Authenticated users can share their secrets anonymously.
@@ -34,12 +34,12 @@ Copy code
 npm start
 Access the application in your browser at http://localhost:3000.
 
-Usage
+## Usage
 Register for an account by providing your email and password.
 Log in using your registered credentials.
 Share your secrets anonymously or view secrets shared by others.
 Contributing
 Contributions are welcome! If you have any ideas for improvement or find any issues, feel free to open an issue or submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License.
