@@ -1,4 +1,4 @@
-##Secrets Sharing Web Application
+## Secrets Sharing Web Application
 This is a web application that allows users to share their secrets anonymously.
 
 ## Features
